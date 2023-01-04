@@ -1,0 +1,23 @@
+{
+  "name": "first_electron_app",
+  "version": "1.0.0",
+  "description": "\"Hello World!\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gagandeep-Kaur-01/First_ElectronJS.git"
+  },
+  "author": "Gagandeep Kaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gagandeep-Kaur-01/First_ElectronJS/issues"
+  },
+  "homepage": "https://github.com/Gagandeep-Kaur-01/First_ElectronJS#readme",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
+}
